@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "826212317843",
+    "project_id": "rightbiz-164311",
+    "storage_bucket": "rightbiz-164311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826212317843:android:6b82367ae827d74ce72b66",
+        "android_client_info": {
+          "package_name": "com.rightbiz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826212317843-qil01dl7l9lksr09j5g5cv141bfhn986.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rightbiz.app",
+            "certificate_hash": "d4f52f0699d83089219755d39ac0972aca23d855"
+          }
+        },
+        {
+          "client_id": "826212317843-srosdvpsrmb69n12oqj356jdf7eodton.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rightbiz.app",
+            "certificate_hash": "0c809e59f72387ecc35afd4d38f59dd38c3153ff"
+          }
+        },
+        {
+          "client_id": "826212317843-1or6qhqrp30crsp4tmiefikknociogl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Udtja0ZSUJpymfZkS6pcOY6ivm9_5Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826212317843-1or6qhqrp30crsp4tmiefikknociogl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826212317843-kau5k1fd4h40euso2b2cvq2umhoatrc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rightbiz.app",
+                "app_store_id": "1663858923"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
